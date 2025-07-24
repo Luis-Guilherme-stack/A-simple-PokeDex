@@ -1,5 +1,5 @@
 
-# Project Title
+# POKEDEX
 
 A simple PokeDex made with HTML, CSS and JavaScript.
 
